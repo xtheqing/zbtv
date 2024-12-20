@@ -32,7 +32,7 @@ permalink: /
 
 ## 📺 自动扫描直播源 IPTV6：
 
-部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2024-11-13 10:41:41<!-- END_UPDATE_TIME_IPTV6 -->
+部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2024-12-20 06:17:39<!-- END_UPDATE_TIME_IPTV6 -->
 
 *有ipv6环境的强烈推荐这个列表，高速稳定*
 
@@ -60,13 +60,21 @@ permalink: /
     <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv6.m3u')">快速复制</button></td>
   </tr>
 </table>
+*有地方的宽带运营商已经污染本站域名了，免费使用的都封... 如果你打开失败，请使用加速地址访问*
 
+```
+https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt
+```
+
+```
+https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+```
 
 
 
 ## 📺 自动扫描直播源 IPTV4：
 
-部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2024-11-13 10:41:41<!-- END_UPDATE_TIME_IPTV4 -->
+部署在服务器上的程序自动扫描而来，<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2024-12-20 06:17:39<!-- END_UPDATE_TIME_IPTV4 -->
 
 <table>
   <colgroup>
@@ -90,7 +98,15 @@ permalink: /
     <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv4.m3u')">快速复制</button></td>
   </tr>
 </table>
+*有地方的宽带运营商已经污染本站域名了，免费使用的都封... 如果你打开失败，请使用加速地址访问*
 
+```
+https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+```
+
+```
+https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+```
 
 
 
@@ -134,6 +150,7 @@ permalink: /
 
 ## 📔 更新
 
+- 2024.12.13 跟着节奏继续优化
 - 2024.10.18 优化测试有效源代码
 - 2024.9.9 直播源失效速度太快，新添加deibian服务器，每日三次更新
 - 2024.8.27 新增一些道
